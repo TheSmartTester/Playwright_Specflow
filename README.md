@@ -11,4 +11,4 @@ So the follow list of items are used to achieve the testing.
 - Fluent Assertions is for the verification.
 
 
-The tests exercise the Rich and Morty API. (Full documentation can be found here https://rickandmortyapi.com/documentation/
+The tests exercise the Rich and Morty API. (Full documentation can be found here) https://rickandmortyapi.com/documentation/
